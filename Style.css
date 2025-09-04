@@ -3,7 +3,7 @@
     /*--primary-color: #1d6392;
     --secondary-color: #2c3e50;
     --text-color: #333333;;
-    --background-color: #f4f4f4;
+    --background-color: #fcecc5;
     --light-gray: #ecf0f1;*/
 }
 
@@ -20,7 +20,7 @@ body {
 
 .header {
     background: var(--secondary-color);
-    color: white;
+    color: lightsteelblue;
     padding: 1rem 0;
     position: fixed;
     width: 100%;
@@ -57,7 +57,7 @@ body {
 
 .profile-section {
     padding-top: 150px; /* Espacio para el header fijo */
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(225, 239, 241, 0.788);
 }
 
 .section-title {
